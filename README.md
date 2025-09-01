@@ -27,6 +27,7 @@ The agent learns to control the left paddle while the right paddle follows a sim
 ### 1. Clone the repository
 
 git clone https://github.com/AnkurKrPal/PongRL.git
+<br>
 cd PongRL
 
 ### 2. Create a virtual environment
