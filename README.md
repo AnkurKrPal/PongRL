@@ -15,10 +15,10 @@ The agent learns to control the left paddle while the right paddle follows a sim
 ---
 
 ## 📂 Project Structure
-├── agent.py # RL agent & training loop
-├── game.py # Pong environment (pygame)
-├── model.py # Neural network + Q-learning trainer
-├── helper.py # Plotting training progress
+├── agent.py # RL agent & training loop<br>
+├── game.py # Pong environment (pygame)<br>
+├── model.py # Neural network + Q-learning trainer<br>
+├── helper.py # Plotting training progress<br>
 
 ---
 
