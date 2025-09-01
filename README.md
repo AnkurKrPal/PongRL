@@ -32,7 +32,9 @@ cd PongRL
 
 ### 2. Create a virtual environment
 python -m venv venv
+<br>
 source venv/bin/activate   # On Linux/Mac
+<br>
 venv\Scripts\activate      # On Windows
 
 ### 3. Install dependencies
